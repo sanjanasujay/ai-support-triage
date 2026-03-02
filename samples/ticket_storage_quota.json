@@ -1,0 +1,4 @@
+{
+  "title": "Storage quota exceeded",
+  "message": "Uploads to our shared storage are failing due to quota limits. Need guidance to request additional capacity or cleanup."
+}

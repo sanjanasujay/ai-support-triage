@@ -1,0 +1,4 @@
+{
+  "title": "VPN connection drops repeatedly",
+  "message": "VPN connects but disconnects every 2-3 minutes on Windows 11. Happens on home network only."
+}
